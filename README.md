@@ -19,3 +19,6 @@ The requirements for the assignment are listed below:
 
 - When I refresh the page, then the saved events persist.
 
+Link to deployed application: https://lizf57.github.io/work-day-schedule/
+
+![Project Screenshot](./images/Screenshot.png)
